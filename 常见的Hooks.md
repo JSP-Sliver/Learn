@@ -2,6 +2,5 @@ useState
 useRequest
 useCallback
 useMount
-useMemo
 sueRef
 usePersistFn
